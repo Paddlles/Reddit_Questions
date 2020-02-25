@@ -1,5 +1,6 @@
 
-word = "3 x Small (Regular), Ice Cream (Regular), Apple Pie (Regular), Caramel (Regular), Almonds (Regular), Ice Cream (Regular), Peanut Butter (Regular), Bananas (Regular), Granola (Regular), Ice Cream (Regular),"
+word = "3 x Small (Regular), Ice Cream (Regular), Apple Pie (Regular), Caramel (Regular), Almonds (Regular), \
+        Ice Cream (Regular), Peanut Butter (Regular), Bananas (Regular), Granola (Regular), Ice Cream (Regular),"
 
 word_list = word.split()
 patterns = ["Small", "Regular", "Large", "Pint", "Milkshake"]  # Substring that will be searched for in string
